@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  position: fixed;
+  top: calc(50% - 13em);
+  left: calc(50% - 13em);
+  margin: 0 auto;
+}
+var {
+  display: inline-block;
+  padding: .65em;
+  transition: transform 1s linear;
+}
